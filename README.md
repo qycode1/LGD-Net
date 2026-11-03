@@ -1,7 +1,7 @@
 # LGD-Net: A Lesion-Guided Dual-Encoder Network with Multi-Stage Feature Fusion for Skin Lesion Segmentation
 
 This repository is the official PyTorch implementation of the paper:  
-**"LGD-Net: A Lesion-Guided Dual-Encoder Network with Multi-Stage Feature Fusion for Skin Lesion Segmentation"** (Under Review at *Biomedical Signal Processing and Control*).
+**"LGD-Net: A Lesion-Guided Dual-Encoder Network with Multi-Stage Feature Fusion for Skin Lesion Segmentation"** 
 
 ---
 LGD-Net integrates a dual-encoder architecture (CNN and Swin Transformer) with three collaborative modules:
