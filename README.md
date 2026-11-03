@@ -3,6 +3,10 @@
 This repository is the official PyTorch implementation of the paper:  
 **"LGD-Net: A Lesion-Guided Dual-Encoder Network with Multi-Stage Feature Fusion for Skin Lesion Segmentation"** 
 
+## 🛠️ Overview & Architecture
+<img width="692" height="649" alt="image" src="https://github.com/user-attachments/assets/da01644a-aa84-42ae-b1d2-309fd6a42fa4" />
+
+
 ---
 LGD-Net integrates a dual-encoder architecture (CNN and Swin Transformer) with three collaborative modules:
 1. **DAMS**: Detail-Aware Multi-Scale Block for boundary and texture representation enhancement.
